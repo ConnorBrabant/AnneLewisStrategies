@@ -1,0 +1,6 @@
+For the Exercise1.js file the dependencies required is 'node-fetch' 
+Before running the file, use npm install node-fetch in terminal and then you can use
+node Exercise1.js in terminal to run the file and see the results outputted to the 
+console 
+
+I have less than a year experience with React 
